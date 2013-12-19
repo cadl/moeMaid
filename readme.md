@@ -5,7 +5,7 @@
 
 一个简陋的桌面女仆程序(desktop buddy?)。基于aiml，实现一些交互功能。包括交谈回复，学习。
 
-![](screeshot.gif)
+![](http://ww3.sinaimg.cn/large/6c776bf8gw1ebpfnk3x5tg20go0cib2l.gif)
 
 ##操作##
 
